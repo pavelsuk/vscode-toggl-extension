@@ -44,6 +44,7 @@ Currently the extension does provide the following settings:
 ```sh
 node ^12.12.0
 vscode ^1.27.1
+rimraf (npm install rimraf -g)
 ```
 
 ## How to develop
