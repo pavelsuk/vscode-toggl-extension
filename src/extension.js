@@ -39,7 +39,7 @@ export function activate(context) {
     const commandId = EVENTS.startPolling
     commandsHandler.executeCommand(commandId) // promise
 
-    // log successfull start
+    // log successful start
     logger('log', 'is activated now!')
   } catch (error) {
     // TODO: handle all catched errors during activation _and_ execution here
