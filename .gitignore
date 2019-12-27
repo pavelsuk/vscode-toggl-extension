@@ -2,6 +2,7 @@
 node_modules
 *.log
 tmp
+.vscode/settings.json
 
 # build
 .vscode-test/
